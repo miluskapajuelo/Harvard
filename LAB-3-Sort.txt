@@ -1,0 +1,26 @@
+Bubble sort
+Compares pairs of adjacent values one at a time and swaps them if they are in the incorrect order. This continues until the list is sorted.
+Order of n2 (Worst Case Scenario - Unsorted Array)
+Omega n (Best Case Scenario - Sorted Array)
+
+
+Selection sort
+Iterates through the unsorted portions of a list, selecting the smallest element each time and moving it to its correct location.
+Order of n2 (Worst Case Scenario - Unsorted Array)
+Omega n2 (Best Case Scenario - Sorted Array)
+Theta n2
+
+
+Merge sort
+Recursively divides the list into two repeatedly and then merges the smaller lists back into a larger one in the correct order.
+Order of n log n (Worst Case Scenario - Unsorted Array)
+Omega n log n (Best Case Scenario - Sorted Array)
+Theta n log n
+
+
+sort1 uses: Bubble sort
+
+sort2 uses: Merge sort
+
+sort3 uses: Selection sort
+
